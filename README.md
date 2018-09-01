@@ -3,11 +3,11 @@ School App Project to Access Grades Based on User permissions using Spring MVC
 
 Build in Eclipse
 
-Uses:
-Sping MVC
-DAO
-JSPs  
-mySQL
+Uses: 
+Sping MVC 
+DAO 
+JSPs    
+mySQL 
 
 File Structure:  
 ![structure](https://raw.githubusercontent.com/iordan-popov/SchoolApp/master/File%20Structure.png)  
